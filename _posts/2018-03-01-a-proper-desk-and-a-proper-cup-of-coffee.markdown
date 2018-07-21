@@ -9,7 +9,7 @@ categories:
   - Technology
 ---
 
-![](/uploads/dillon-shook-567905-unsplash.jpg)
+![Photo by Dillon Shook on Unsplash](/uploads/dillon-shook-567905-unsplash.jpg)
 
 Telecommuting, remote work, e-commuting – regardless of what you choose to call it, working from home is now possible in many office-based jobs, thanks to 21st-century mobile telecommunications technology. In most Nordic countries, having a remote day is standard practice – nobody bats an eye if you decide to work at your kitchen table so you can let the plumber in, or if it’s more convenient to stay in than brave the rain the first thing on a Monday morning.
 
