@@ -75,11 +75,13 @@ responsive_image:
   # An array of resize configuration objects. Each object must contain at least
   # a `width` value.
   sizes:
-    - width: 20 # [Required] How wide the resized image will be.
+    - width: 20 # lq
+      quality: 10
+    - width: 480  # [Required] How wide the resized image will be.
       quality: 80 # [Optional] Overrides default_quality for this size.
-    - width: 100
-    - width: 150
-      quality: 85
+    - width: 800
+    - width: 1400
+      quality: 90
 # [Optional, Default: false]
   # Rotate resized images depending on their EXIF rotation attribute. Useful for
   # working with JPGs directly from digital cameras and smartphones
