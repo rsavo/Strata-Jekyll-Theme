@@ -77,8 +77,8 @@ responsive_image:
   sizes:
     - width: 20 # [Required] How wide the resized image will be.
       quality: 80 # [Optional] Overrides default_quality for this size.
-    - width: 600
-    - width: 1000
+    - width: 100
+    - width: 150
       quality: 85
 # [Optional, Default: false]
   # Rotate resized images depending on their EXIF rotation attribute. Useful for
