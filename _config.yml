@@ -29,6 +29,7 @@ gems:
   - "jekyll-seo-tag"
   - "jekyll-paginate"
   - "jekyll-sitemap"
+  - "jekyll-responsive-image"
 
 # Jekyll SEO Tag
 webmaster_verifications:
