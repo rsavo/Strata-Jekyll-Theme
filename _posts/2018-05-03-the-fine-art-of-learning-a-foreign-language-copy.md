@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: The Fine Art of Learning a Foreign Language
 categories:
   - Language
