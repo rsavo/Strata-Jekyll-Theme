@@ -30,7 +30,6 @@ gems:
   - "jekyll-paginate"
   - "jekyll-sitemap"
   - "jekyll-responsive-image"
-  - "thumbnail_filter"
 
 # Jekyll SEO Tag
 webmaster_verifications:
