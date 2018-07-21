@@ -11,18 +11,7 @@ categories:
   - Spain
   - Spanish
 date: 2018-05-03 00:00:00
-options:
-  image_path:
-    width: 90
-    height: 120
-    resize_style: "contain"
-    mime_type: "uploads/abi-ismail-383794-unsplash.jpg"
-    expandable: true
-  content:
-    width: 90
-    height: 120
-    resize_style: "cover"
-    mime_type: "image/png"
+
 ---
 
 ![](/uploads/abi-ismail-383794-unsplash.jpg)
