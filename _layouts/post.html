@@ -38,9 +38,9 @@ layout: default
           <header>
             <h2><a href="{{ page.next.url }}">{{ page.next.title }}</a></h2>
           </header>
-          <section>
--            {{ page.previous.excerpt | markdownify |  remove: '<img>' | remove: '</img>' }}
--          </section>
+            <section>
+-            {{ page.previous.excerpt | markdownify | remove: '<img>' | remove: '</img>'}}
+-         </section>
           
           <footer>
             <ul class="actions">
