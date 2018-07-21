@@ -9,6 +9,8 @@ categories:
   - Technology
 ---
 
+![](/uploads/dillon-shook-567905-unsplash.jpg)
+
 Telecommuting, remote work, e-commuting – regardless of what you choose to call it, working from home is now possible in many office-based jobs, thanks to 21st-century mobile telecommunications technology. In most Nordic countries, having a remote day is standard practice – nobody bats an eye if you decide to work at your kitchen table so you can let the plumber in, or if it’s more convenient to stay in than brave the rain the first thing on a Monday morning.
 
 Large multinational companies have also embraced remote work; if the job gets done, it doesn’t matter so much where it gets done. Working from home is no longer only the reality of freelance writers, consultants or researchers – &nbsp;we are all increasingly more likely to get to work from home. Great, right? Yes…but in order to work successfully from home, there are a few things you should consider.
