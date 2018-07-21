@@ -40,7 +40,7 @@ webmaster_verifications:
 
 # -----------
 # CloudCannon
-options:
+_options:
   image_path:
     width: 90
     height: 120
