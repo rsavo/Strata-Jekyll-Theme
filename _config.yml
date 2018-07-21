@@ -45,13 +45,13 @@ options:
     width: 90
     height: 120
     resize_style: "contain"
-    mime_type: "image/jpeg"
+    mime_type: "uploads/jpeg"
     expandable: true
   content:
     width: 90
     height: 120
     resize_style: "cover"
-    mime_type: "image/png"
+    mime_type: "uploads/png"
 
 social_icons:
   - Facebook
