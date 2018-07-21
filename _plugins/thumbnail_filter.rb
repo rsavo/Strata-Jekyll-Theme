@@ -14,7 +14,7 @@
 module Jekyll
   module ThumbnailFilter
     def thumbnail_url(input, post_url, post_title)
-      m = input.match(/(src=("|')|\()((http|https):\/\/\S+\.(?:gif|jpeg|jpg|png|webp|svg)|.*(\/img\/\S+?\.(?:gif|jpeg|jpg|png|webp|svg)))/)
+      m = input.match in(/(src=("|')|\()((http|https):\/\/\S+\.(?:gif|jpeg|jpg|png|webp|svg)|.*(\/img\/\S+?\.(?:gif|jpeg|jpg|png|webp|svg)))/)
       baseurl = @context.registers[:site].config['baseurl']
 
       if m.nil?
