@@ -1,6 +1,6 @@
 locale: "en-US"
 title: Strata # Title of your site
-url: "/" # the base hostname & protocol for your site
+url: "orange-coffee.cloudvent.net" # the base hostname & protocol for your site
 baseurl: "/" # the subpath of your site, e.g. /blog/
 google_analytics_key: ""
 
