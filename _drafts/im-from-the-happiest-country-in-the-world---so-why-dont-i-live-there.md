@@ -29,4 +29,6 @@ While I don’t want to discredit the report – after all, &nbsp;I wouldn’t w
 
 &nbsp;
 
+*(Edit: The author and her family moved from Spain to Finland 3 months after this article was posted.)*
+
 *(This post was originally published in the [Go English Magazine blog March 26 2018](http://goenglishmagazine.es/finland/). )*
