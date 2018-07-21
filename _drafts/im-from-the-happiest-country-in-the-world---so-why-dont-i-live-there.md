@@ -9,6 +9,10 @@ categories:
 date: 2018-03-27 00:00:00
 ---
 
+&nbsp;
+
+![](/uploads/tommaso-fornoni-185118-unsplash.jpg "Photo by Tommaso Fornoni on Unsplash")
+
 Good news for my native land: &nbsp;After a subpar performance at the Winter Olympics (again), Finland has come first in The World Happiness Report for 2018! This news has all of Finland in a frenzy, not unlike when Lordi, a hard rock band dressed up as monsters, won the Eurovision Song Contest in 2006. It’s given the Finns strength to patiently keep waiting for the end of May, when spring finally begins in the over 60&deg; latitudes.
 
 70 % of the country I was born in is covered in trees. It is also littered with lakes (about 56 000 or 188 000, depending on your criteria). It is a great place for outdoors activities, for raising a family and for a peaceful life. It’s not perfect, but in the grand scheme of things, it’s pretty darn good. I could go on and on about the reasons why Finland is the happiest place in the world: it has high quality free basic education, relatively little inequality and very comprehensive social security.
