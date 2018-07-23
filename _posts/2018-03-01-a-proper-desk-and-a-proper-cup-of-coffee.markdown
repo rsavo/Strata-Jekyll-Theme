@@ -1,19 +1,19 @@
 ---
 layout: post
 title: A Proper Desk And A Proper Cup of Coffee
-date: 2018-03-01 14:37:00
+date: 2018-05-02 21:00:00 +0000
 categories:
-  - Work
-  - Daily life
-  - Barcelona
-  - Technology
----
+- Work
+- Daily life
+- Barcelona
+- Technology
 
-![](/uploads/dillon-shook-567905-unsplash.jpg "Photo by Dillon Shook on Unsplash")
+---
+![](/uploads/abi-ismail-383794-unsplash.jpg "Photo by Dillon Shook on Unsplash")
 
 Telecommuting, remote work, e-commuting – regardless of what you choose to call it, working from home is now possible in many office-based jobs, thanks to 21st-century mobile telecommunications technology. In most Nordic countries, having a remote day is standard practice – nobody bats an eye if you decide to work at your kitchen table so you can let the plumber in, or if it’s more convenient to stay in than brave the rain the first thing on a Monday morning.
 
-Large multinational companies have also embraced remote work; if the job gets done, it doesn’t matter so much where it gets done. Working from home is no longer only the reality of freelance writers, consultants or researchers – &nbsp;we are all increasingly more likely to get to work from home. Great, right? Yes…but in order to work successfully from home, there are a few things you should consider.
+Large multinational companies have also embraced remote work; if the job gets done, it doesn’t matter so much where it gets done. Working from home is no longer only the reality of freelance writers, consultants or researchers –  we are all increasingly more likely to get to work from home. Great, right? Yes…but in order to work successfully from home, there are a few things you should consider.
 
 Mike Simms, a Sant Cugat-based consulting engineer, has been working from both home and a co-working office for 9 years. His number one piece of advice? “Have a proper desk.” Other advice? “Keep the kids’ stuff off your proper desk.” Now, this may seem rather obvious, but you’d be surprised to see how many remote workers are doubled over at their living room coffee table, completely neglecting their posture. In this day and age, when we spend about 8 hours a day sitting down at a desk, we can’t really do that. Which brings us to another piece of advice from Mike: “Get a decent extra monitor for your laptop and use it instead of the laptop screen. The money you don’t spend on the monitor you’ll spend getting physiotherapy on your back!” Ah, the ever-practical engineer. Thanks, Mike!
 
@@ -27,4 +27,4 @@ Mike also has a say about routines and shares his secret to good concentration: 
 
 So, if you’re working from home tomorrow, put on that suit, sit up straight, and let your team know what’s going on. Get a new monitor and a proper desk and you’ll be able to make the most of working from home. Oh, and maybe even switch on your washing machine for a calming soundtrack to your working day.
 
-*(This post was originally published in the [Go English Magazine blog 28 February 2018](http://goenglishmagazine.es/a-proper-desk-and-a-proper-cup-of-coffee/). )*
+_(This post was originally published in the_ [_Go English Magazine blog 28 February 2018_](http://goenglishmagazine.es/a-proper-desk-and-a-proper-cup-of-coffee/)_. )_
