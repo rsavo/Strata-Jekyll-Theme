@@ -14,7 +14,7 @@ date: 2018-05-03 00:00:00
 
 ---
 
-{% responsive_image path: uploads/abi-ismail-383794-unsplash.jpg %}
+![](/uploads/dillon-shook-567905-unsplash.jpg)
 
 One summer about ten years ago I was visiting friends in London. I went to buy a bottle of juice at a caf&eacute; near King’s Cross, in the heart of London, when a Spanish man in his early 20s walked in. He had his CV in his hand, and it was evident that he was going to ask about job opportunities at the caf&eacute;. He went straight to the friendly-looking barista at the counter.
 
